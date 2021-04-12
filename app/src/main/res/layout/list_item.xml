@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="50dp"
+    android:padding="5dp">
+
+    <include
+        android:id="@+id/card1"
+        layout="@layout/text_card" />
+
+    <include
+        android:id="@+id/card2"
+        layout="@layout/text_card" />
+
+    <include
+        android:id="@+id/card3"
+        layout="@layout/text_card" />
+
+    <include
+        android:id="@+id/card4"
+        layout="@layout/text_card" />
+
+    <include
+        android:id="@+id/card5"
+        layout="@layout/text_card" />
+
+    <include
+        android:id="@+id/card6"
+        layout="@layout/text_card" />
+
+    <include
+        android:id="@+id/card7"
+        layout="@layout/text_card" />
+
+    <include
+        android:id="@+id/card8"
+        layout="@layout/text_card" />
+</LinearLayout>
